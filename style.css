@@ -137,8 +137,7 @@
         width: 392px;
         height: 802px;
         background-image: url("images/Image 41.png");
-        background-repeat: no-repeat;
-        filter: blur(2px);
+        background-repeat: no-repeat;        
     }
     
     .section-title {
